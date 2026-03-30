@@ -1,6 +1,6 @@
 print("Hello World")
 
-def fibonacci(n):
+def fibonacci2(n):
     if n == 1:
         return 0
     if n == 2:
