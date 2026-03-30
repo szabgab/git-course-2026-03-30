@@ -5,3 +5,6 @@ def fib(n):
         return 0
     if n == 2:
         return 0
+    fibs = [0, 1]
+    for _ in range(n-2):
+        fibs.append(fibx[-1] + fibx[-2])
