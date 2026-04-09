@@ -2,7 +2,7 @@
 
 [slides](https://git.code-maven.com/git/)
 
-Fix typo
+Fix typo and do more
 Other branch
 Blue
 Hello World
