@@ -33,6 +33,6 @@ fn fibo(n: u128) -> u128 {
     fibs[fibs.len() - 1]
 }
 
-fn square(n: u32) -> u32 {
+fn square(n: u128) -> u128 {
     n*n
 }
