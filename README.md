@@ -12,3 +12,4 @@ Add line in feature x
 Add line 2
 Line x
 Line y
+start feature a
