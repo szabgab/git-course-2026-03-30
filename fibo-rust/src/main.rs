@@ -7,7 +7,7 @@ fn main() {
     let n = args[1].parse::<u32>().unwrap();
 
     println!("fibo({n}) = {}", fibo(n));
-    //println!("square({n}) = {}", square(n));
+    println!("square({n}) = {}", square(n));
 
     println!("----------");
     for k in 1..45 {
@@ -33,6 +33,6 @@ fn fibo(n: u32) -> u32 {
     fibs[fibs.len() - 1]
 }
 
-// fn square(n: u32) -> u32 {
-//     n*n
-// }
+fn square(n: u32) -> u32 {
+    n*n
+}
