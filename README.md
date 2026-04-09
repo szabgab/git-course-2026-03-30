@@ -4,6 +4,7 @@
 
 Fix typo
 Other branch
+Blue
 Hello World
 Hello again
 Another line
