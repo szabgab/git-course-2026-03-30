@@ -4,13 +4,13 @@ fn main() {
         println!("Usage: {}", &args[0]);
         std::process::exit(1);
     }
-    let n = args[1].parse::<u32>().unwrap();
+    let n = args[1].parse::<u128>().unwrap();
 
     println!("fibo({n}) = {}", fibo(n));
     println!("square({n}) = {}", square(n));
 
     println!("----------");
-    for k in 1..45 {
+    for k in 1..100 {
         let fib = fibo(k);
         if fib % n == 0 {
             println!("fibo({k}) = {fib} can be divided by {n}");
@@ -18,7 +18,7 @@ fn main() {
     }
 }
 
-fn fibo(n: u32) -> u32 {
+fn fibo(n: u128) -> u128 {
     if n == 1 {
         return 0;
     }
