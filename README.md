@@ -2,7 +2,7 @@
 
 [slides](https://git.code-maven.com/git/)
 
-Fix typo
+Fix typo and do more
 Other branch
 Blue
 Hello World
@@ -13,3 +13,5 @@ Add line 2
 Line x
 Line y
 start feature a and b
+Add a line to readme
+Add more
