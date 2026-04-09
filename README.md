@@ -3,6 +3,7 @@
 [slides](https://git.code-maven.com/git/)
 
 Fix typo
+Other branch
 Hello World
 Hello again
 Another line
