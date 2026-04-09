@@ -6,3 +6,4 @@ Hello World
 Hello again
 Another line
 Add line in feature x
+Add line 2
